@@ -20,7 +20,7 @@ The design is compatible with the Crazyflie flight control system and supports m
 | 3D Model              | Contains a `.step` file for the PCB. Exported from EasyEDA Pro. |
 | gerber.zip            | PCB gerber file.                                             |
 | images                | Images to show what the PCB should look like.                |
-| src                   | `.epro` file for EasyEDA Pro. .  `.ino` file for ESP32(Arduino). |
+| src                   | `.epro` file for EasyEDA Pro. `.ino` file for ESP32(Arduino). |
 | Schematic_EPM_PCB.pdf | PCB schematic `.pdf` file.                                   |
 
 ## PCB Images
